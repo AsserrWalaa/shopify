@@ -1,0 +1,92 @@
+header {
+}
+.brand {
+  text-align: center;
+}
+header section h1 {
+  color: white;
+  font-size: 40px;
+}
+.start {
+  font-size: 20px;
+}
+.day-14 {
+  font-size: 10px;
+}
+/* after edit */
+.free-trial {
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 40px;
+  padding: 10px 25px;
+}
+.e-mail {
+  border: 0px white solid;
+  border-radius: 30px;
+  width: 280px;
+  height: 60px;
+  padding-left: 30px;
+}
+
+.e-mail-add {
+  margin-left: 270px;
+  text-align: center;
+  width: auto;
+  border-radius: 500px;
+  border: 3px solid black;
+}
+.e-mail-add-white {
+  border-radius: 500px;
+  margin-left: 270px;
+  width: auto;
+  border: 3px solid white;
+}
+.e-mail-white {
+  border: white;
+}
+.three p {
+  color: black;
+  font-weight: bold;
+  font-size: 50px;
+}
+.four {
+  background-image: radial-gradient(
+    circle at -48% 130%,
+    #d0f224aa 24%,
+    #054a49 45%
+  );
+}
+.four p {
+  font-size: 50px;
+}
+footer a {
+  color: black;
+  text-decoration: none;
+}
+footer h2 {
+  margin-left: 150px;
+  text-align: left;
+}
+footer h2:hover {
+  color: rgb(68, 68, 68);
+}
+footer h2 i {
+  padding: 10px;
+  padding-left: 200px;
+  background-color: white;
+  border: solid 0px;
+  border-radius: 20px;
+}
+.last a:hover {
+  color: black;
+  text-decoration: none;
+}
+.last {
+  padding-right: 50px;
+  text-align: right;
+  font-size: 20px;
+}
+.last i:hover {
+  background-color: grey;
+}
